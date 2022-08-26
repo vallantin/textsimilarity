@@ -11,3 +11,7 @@ You will need streamlit to run this app locally. Install the packages on the req
 ```
 streamlit run app.py
 ```
+
+## View it online
+
+[Text similarity dashboard](https://vallantin-textsimilarity-app-gopds6.streamlitapp.com/)

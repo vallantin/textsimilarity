@@ -49,6 +49,7 @@ st.write("[Measuring Text Similarity Using BERT](https://www.analyticsvidhya.com
 
 st.subheader('Other projects')
 st.write("[Job description generator](https://vallantin-jobdescriptiongenerator-app-5wz0u4.streamlitapp.com/)")
+st.write("[NLP Resources dashboard](https://vallantin-nlp-resources-app-1c6nvk.streamlitapp.com/)")
 
 # ------------------------------------------------------------------------------------
 st.markdown("""---""")
